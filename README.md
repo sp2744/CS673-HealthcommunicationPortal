@@ -16,7 +16,7 @@ Patients love your free portal- it lets them conveniently and securely communica
 5. Neha Mulgund
 
 ## GIT Repository Link
-[HealthcommunicationPortal](https://github.com/ashraykengunte/CS673-HealthcommunicationPortal)
+[HealthcommunicationPortal](https://github.com/ManjushreeRao/CS673-HealthcommunicationPortal)
 
 ## About The Project
 
