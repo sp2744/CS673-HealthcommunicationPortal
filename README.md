@@ -12,8 +12,8 @@ Patients love your free portal- it lets them conveniently and securely communica
 1. Manjushree Rao - Devops
 2. Ashray Kengunte Jayachandra - Data Architect
 3. Prajwal Shiva Kumar - UI/UX Developer
-4. Suvarna Patil
-5. Neha Mulgund
+4. Suvarna Patil - Microservice Developer
+5. Neha Mulgund - 
 
 ## GIT Repository Link
 [HealthcommunicationPortal](https://github.com/ManjushreeRao/CS673-HealthcommunicationPortal)
