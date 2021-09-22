@@ -8,7 +8,7 @@ Patients love your free portal- it lets them conveniently and securely communica
 ## CONTRIBUTORS 
 1. Manjushree Rao
 2. Ashray Kengunte Jayachandra - Data Architect
-3. Prajwal Shiva Kumar
+3. Prajwal Shiva Kumar - UI/UX Developer
 4. Suvarna Patil
 5. Neha Mulgund
 
