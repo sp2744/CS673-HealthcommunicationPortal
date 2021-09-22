@@ -4,7 +4,7 @@ Patients love your free portal- it lets them conveniently and securely communica
 
 <p align="center">
   <a href="https://github.com/ashraykengunte/CS673-HealthcommunicationPortal">
-    <img src="PortalImage.jpg" alt="Logo" width="80" height="80">
+    <img src="PortalImage.jpg" alt="Logo" width="400" height="400">
   </a>
 
 
